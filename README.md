@@ -1,25 +1,11 @@
-# yin-yang-badge
+# Certified Paradox
 
-A comedy website: "100% Organic Handcrafted Code vs 100% AI Agentic" yin-yang badge generator.
+A comedy badge for software developers who are **100% organic handcrafted code** and also **100% AI agentic**.
 
-## Features
+Open `index.html`. Edit the stamp. Download SVG or PNG. Copy README markdown that hotlinks `badge.svg`.
 
-- Interactive yin-yang badge SVG
-- Edit left/right/top text live
-- "Vibe shift" button with ridiculous alternate taglines
-- Download as SVG (vector, perfect for READMEs)
-- Download as PNG (raster)
+```md
+[![Certified Paradox: 100% organic handcrafted code and 100% AI agentic](https://YOUR-SITE/badge.svg)](https://YOUR-SITE/)
+```
 
-## Usage
-
-Open `index.html` in your browser. No build step, no dependencies, no backend.
-
-## Deployment ideas
-
-- GitHub Pages (static)
-- Cloudflare Pages
-- Netlify (drag & drop the folder)
-
-## Why?
-
-The contradiction is the point. For developers who want to signal maximum ideological tension in a 1x image.
+Static site. No build step. Publish directory is `.`
